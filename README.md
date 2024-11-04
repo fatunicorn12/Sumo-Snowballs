@@ -33,18 +33,13 @@ Sumo Snowballs pits two players against each other in a snow-covered battlegroun
 ## Installation
 1. Clone the repository from GitHub:  
    ```sh
-   git clone [<repository-url>](https://github.com/fatunicorn12/Sumo-Snowballs)
+   git clone https://github.com/fatunicorn12/Sumo-Snowballs
    ```
 2. Open the project in Unity.
 3. Build and run to start playing!
 
-## Requirements
-- Unity version 2021.3 or higher
-- Keyboard (for local multiplayer gameplay)
-
-
 ## Credits
-- **Developer**: Will
+- **Developer**: Will Blodgett
 - **Engine**: Unity
 
 ## License
