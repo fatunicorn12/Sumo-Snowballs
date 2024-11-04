@@ -7,10 +7,10 @@ Sumo Snowballs pits two players against each other in a snow-covered battlegroun
 
 ### Features
 - **Two-Player Competitive Gameplay**: Play against a friend on the same keyboard.
-- **Snowball Growth Mechanic**: Move around to grow your snowball, making it bigger and stronger.
+- **Snowball Growth Mechanic**: Move around to grow your snowball, making it bigger and stronger, but slowing you down as it grows!
 - **Harvest Button**: If your snowball breaks, rapidly press the harvest button to rebuild!
-- **Launch Mechanic**: Use your snowball as a projectile to gain the advantage.
-- **Physics-based Knockback**: Knock your opponent out of the arena using your snowball's size for powerful force.
+- **Launch Mechanic**: Use your snowball as a projectile to gain the advantage. Hitting another player will make them lose their snowball regardless of the size, but be careful if they block it!
+- **Knockback Multiplier**: Knock your opponent out of the arena using your snowball's size for powerful force.
 
 ## Controls
 - **Player 1**:
@@ -43,9 +43,6 @@ Sumo Snowballs pits two players against each other in a snow-covered battlegroun
 ## Credits
 - **Developer**: Will Blodgett
 - **Engine**: Unity
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Feedback
 If you have any feedback or encounter any issues, feel free to open an issue in the repository or contact me directly.
