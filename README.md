@@ -38,6 +38,8 @@ Sumo Snowballs pits two players against each other in a snow-covered battlegroun
 2. Open the project in Unity.
 3. Build and run to start playing!
 
+..or you can run the executable in the builds file
+
 ## Credits
 - **Developer**: Will Blodgett
 - **Engine**: Unity
